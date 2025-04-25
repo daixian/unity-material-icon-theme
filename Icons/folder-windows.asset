@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a1924e497ac37414e91f1284e084dc52, type: 3}
+  m_Name: folder-windows
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: 6861c5b57a9e96d4bb02b15d08c1709a, type: 3}
+  folderNames:
+  - windows
+  - .windows
+  - _windows
+  - __windows__
+  - win
+  - .win
+  - _win
+  - __win__
+  - win32
+  - .win32
+  - _win32
+  - __win32__
+  - standalonewindows64
+  - standalonewindows

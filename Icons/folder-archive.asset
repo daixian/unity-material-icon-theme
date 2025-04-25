@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a1924e497ac37414e91f1284e084dc52, type: 3}
+  m_Name: folder-archive
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: 1563529d06783434c8b95c4d2d1ec3b9, type: 3}
+  folderNames:
+  - arc
+  - .arc
+  - _arc
+  - __arc__
+  - arcs
+  - .arcs
+  - _arcs
+  - __arcs__
+  - archive
+  - .archive
+  - _archive
+  - __archive__
+  - archives
+  - .archives
+  - _archives
+  - __archives__
+  - archival
+  - .archival
+  - _archival
+  - __archival__
+  - bkp
+  - .bkp
+  - _bkp
+  - __bkp__
+  - bkps
+  - .bkps
+  - _bkps
+  - __bkps__
+  - bak
+  - .bak
+  - _bak
+  - __bak__
+  - baks
+  - .baks
+  - _baks
+  - __baks__
+  - backup
+  - .backup
+  - _backup
+  - __backup__
+  - backups
+  - .backups
+  - _backups
+  - __backups__
+  - back-up
+  - .back-up
+  - _back-up
+  - __back-up__
+  - back-ups
+  - .back-ups
+  - _back-ups
+  - __back-ups__
+  - history
+  - .history
+  - _history
+  - __history__
+  - histories
+  - .histories
+  - _histories
+  - __histories__

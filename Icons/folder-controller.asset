@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a1924e497ac37414e91f1284e084dc52, type: 3}
+  m_Name: folder-controller
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: 2270a65c59e112046b381aa4c42ee611, type: 3}
+  folderNames:
+  - controller
+  - .controller
+  - _controller
+  - __controller__
+  - controllers
+  - .controllers
+  - _controllers
+  - __controllers__
+  - controls
+  - .controls
+  - _controls
+  - __controls__
+  - service
+  - .service
+  - _service
+  - __service__
+  - services
+  - .services
+  - _services
+  - __services__
+  - provider
+  - .provider
+  - _provider
+  - __provider__
+  - providers
+  - .providers
+  - _providers
+  - __providers__
+  - handler
+  - .handler
+  - _handler
+  - __handler__
+  - handlers
+  - .handlers
+  - _handlers
+  - __handlers__

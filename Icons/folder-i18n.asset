@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a1924e497ac37414e91f1284e084dc52, type: 3}
+  m_Name: folder-i18n
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: 6491ca1e08f51bb49819bc8cf69228e0, type: 3}
+  folderNames:
+  - i18n
+  - .i18n
+  - _i18n
+  - __i18n__
+  - internationalization
+  - .internationalization
+  - _internationalization
+  - __internationalization__
+  - lang
+  - .lang
+  - _lang
+  - __lang__
+  - langs
+  - .langs
+  - _langs
+  - __langs__
+  - language
+  - .language
+  - _language
+  - __language__
+  - languages
+  - .languages
+  - _languages
+  - __languages__
+  - locale
+  - .locale
+  - _locale
+  - __locale__
+  - locales
+  - .locales
+  - _locales
+  - __locales__
+  - l10n
+  - .l10n
+  - _l10n
+  - __l10n__
+  - localization
+  - .localization
+  - _localization
+  - __localization__
+  - translation
+  - .translation
+  - _translation
+  - __translation__
+  - translate
+  - .translate
+  - _translate
+  - __translate__
+  - translations
+  - .translations
+  - _translations
+  - __translations__
+  - tx
+  - .tx
+  - _tx
+  - __tx__

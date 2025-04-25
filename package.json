@@ -1,0 +1,14 @@
+{
+  "name": "com.xuexue.unity-material-icon-theme",
+  "version": "1.0.0",
+  "displayName": "Unity Material Icon Theme",
+  "description": "enables you to customize the color and the icon label of your folders in the Unity project browser.",
+  "unity": "2021.3",
+  "documentationUrl": "https://github.com/SeaeeesSan/SimpleFolderIcon",
+  "changelogUrl": "https://github.com/SeaeeesSan/SimpleFolderIcon/releases",
+  "licensesUrl": "https://github.com/SeaeeesSan/SimpleFolderIcon/blob/master/LICENSE",
+  "author": {
+    "name": "Seaeees",
+    "url": "https://github.com/SeaeeesSan"
+  }
+}

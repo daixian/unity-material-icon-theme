@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a1924e497ac37414e91f1284e084dc52, type: 3}
+  m_Name: folder-functions
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: 8ca2e3d47020f3844b4ada5f16fbafb5, type: 3}
+  folderNames:
+  - func
+  - .func
+  - _func
+  - __func__
+  - funcs
+  - .funcs
+  - _funcs
+  - __funcs__
+  - function
+  - .function
+  - _function
+  - __function__
+  - functions
+  - .functions
+  - _functions
+  - __functions__
+  - lambda
+  - .lambda
+  - _lambda
+  - __lambda__
+  - lambdas
+  - .lambdas
+  - _lambdas
+  - __lambdas__
+  - logic
+  - .logic
+  - _logic
+  - __logic__
+  - math
+  - .math
+  - _math
+  - __math__
+  - maths
+  - .maths
+  - _maths
+  - __maths__
+  - calc
+  - .calc
+  - _calc
+  - __calc__
+  - calcs
+  - .calcs
+  - _calcs
+  - __calcs__
+  - calculation
+  - .calculation
+  - _calculation
+  - __calculation__
+  - calculations
+  - .calculations
+  - _calculations
+  - __calculations__

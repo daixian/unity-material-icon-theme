@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a1924e497ac37414e91f1284e084dc52, type: 3}
+  m_Name: folder-contract
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: a2d541e896ca7e842b0d4c4c47877cba, type: 3}
+  folderNames:
+  - pact
+  - .pact
+  - _pact
+  - __pact__
+  - pacts
+  - .pacts
+  - _pacts
+  - __pacts__
+  - contract
+  - .contract
+  - _contract
+  - __contract__
+  - contracts
+  - .contracts
+  - _contracts
+  - __contracts__
+  - contract-testing
+  - .contract-testing
+  - _contract-testing
+  - __contract-testing__
+  - contract-test
+  - .contract-test
+  - _contract-test
+  - __contract-test__
+  - contract-tests
+  - .contract-tests
+  - _contract-tests
+  - __contract-tests__

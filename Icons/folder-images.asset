@@ -1,0 +1,114 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a1924e497ac37414e91f1284e084dc52, type: 3}
+  m_Name: folder-images
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: 87fb207629e8c804eb9b0aa552374bab, type: 3}
+  folderNames:
+  - image
+  - images
+  - icons
+  - textures
+  - texture
+  - .images
+  - _images
+  - __images__
+  - .image
+  - _image
+  - __image__
+  - imgs
+  - .imgs
+  - _imgs
+  - __imgs__
+  - img
+  - .img
+  - _img
+  - __img__
+  - .icons
+  - _icons
+  - __icons__
+  - icon
+  - .icon
+  - _icon
+  - __icon__
+  - icos
+  - .icos
+  - _icos
+  - __icos__
+  - ico
+  - .ico
+  - _ico
+  - __ico__
+  - figures
+  - .figures
+  - _figures
+  - __figures__
+  - figure
+  - .figure
+  - _figure
+  - __figure__
+  - figs
+  - .figs
+  - _figs
+  - __figs__
+  - fig
+  - .fig
+  - _fig
+  - __fig__
+  - screenshot
+  - .screenshot
+  - _screenshot
+  - __screenshot__
+  - screenshots
+  - .screenshots
+  - _screenshots
+  - __screenshots__
+  - screengrab
+  - .screengrab
+  - _screengrab
+  - __screengrab__
+  - screengrabs
+  - .screengrabs
+  - _screengrabs
+  - __screengrabs__
+  - pic
+  - .pic
+  - _pic
+  - __pic__
+  - pics
+  - .pics
+  - _pics
+  - __pics__
+  - picture
+  - .picture
+  - _picture
+  - __picture__
+  - pictures
+  - .pictures
+  - _pictures
+  - __pictures__
+  - photo
+  - .photo
+  - _photo
+  - __photo__
+  - photos
+  - .photos
+  - _photos
+  - __photos__
+  - photograph
+  - .photograph
+  - _photograph
+  - __photograph__
+  - photographs
+  - .photographs
+  - _photographs
+  - __photographs__

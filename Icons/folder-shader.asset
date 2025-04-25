@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a1924e497ac37414e91f1284e084dc52, type: 3}
+  m_Name: folder-shader
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: afee84c9c8c3e104c9d13a7c21bad6ae, type: 3}
+  folderNames:
+  - shader
+  - shaders
+  - glsl
+  - .glsl
+  - _glsl
+  - __glsl__
+  - hlsl
+  - .hlsl
+  - _hlsl
+  - __hlsl__
+  - .shader
+  - _shader
+  - __shader__
+  - .shaders
+  - _shaders
+  - __shaders__

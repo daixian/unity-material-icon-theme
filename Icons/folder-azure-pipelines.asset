@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a1924e497ac37414e91f1284e084dc52, type: 3}
+  m_Name: folder-azure-pipelines
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: c758ae85fa6a31447bf45c9f7f1c4ce2, type: 3}
+  folderNames:
+  - azure-pipelines
+  - .azure-pipelines
+  - _azure-pipelines
+  - __azure-pipelines__
+  - azure-pipelines-ci
+  - .azure-pipelines-ci
+  - _azure-pipelines-ci
+  - __azure-pipelines-ci__
