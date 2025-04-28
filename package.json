@@ -1,6 +1,6 @@
 {
   "name": "com.xuexue.unity-material-icon-theme",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "displayName": "Unity Material Icon Theme",
   "description": "enables you to customize the color and the icon label of your folders in the Unity project browser.",
   "unity": "2021.3",
