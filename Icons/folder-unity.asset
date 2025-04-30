@@ -15,6 +15,7 @@ MonoBehaviour:
   icon: {fileID: 21300000, guid: 64c2e8774244d504099d17b948e9808a, type: 3}
   folderNames:
   - scenes
+  - scene
   - unity
   - .unity
   - _unity
