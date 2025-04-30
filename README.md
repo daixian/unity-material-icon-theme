@@ -30,7 +30,7 @@
   {
     ...
 
-    "com.xuexue.unity-material-icon-theme": "1.0.0",
+    "com.xuexue.unity-material-icon-theme": "1.0.3",
     "scopedRegistries": [
       {
         "name": "dx-server",
